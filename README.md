@@ -1,1 +1,1 @@
-# minesweeper
+Run main.py
